@@ -106,16 +106,6 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=MN-SHASHANK&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1)
-
-</div>
-
----
-
 ## 📜 Certifications
 
 | Certificate | Issuer | Year |
