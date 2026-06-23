@@ -66,7 +66,7 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 
 ## 🚀 Featured Projects
 
-###### 🚦 Traffic Volume Prediction using Machine Learning
+### 🚦 Traffic Volume Prediction using Machine Learning
 > Machine learning-based system for forecasting road traffic congestion
 
 * Performed **EDA**, data cleaning, and preprocessing on traffic and environmental datasets
