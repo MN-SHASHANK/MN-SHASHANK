@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- VISITOR COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=MN-SHASHANK&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 <!-- ANIMATED TYPING HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999999&color=6C63FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey+there!+I'm+MN+Shashank+%F0%9F%91%8B" alt="Greeting" />
