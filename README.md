@@ -3,14 +3,10 @@
 <!-- VISITOR COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MN-SHASHANK&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Shashank+👋" alt="Header" />
+<!-- ANIMATED TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Shashank+%F0%9F%91%8B" alt="Greeting" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=ECE+Student+%7C+Software+Developer;DSA+%7C+ML+%7C+VLSI+Enthusiast;C%2B%2B+%7C+Python+%7C+SystemVerilog;Building+Scalable+%26+Efficient+Systems" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
 
@@ -18,9 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
-
-I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at **Vardhaman College of Engineering** (CGPA: 9.0), passionate about software development, VLSI design, and machine learning. I love turning complex problems into clean, efficient solutions.
+I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at **Vardhaman College of Engineering** (CGPA: 9.0), passionate about software development, VLSI design, and machine learning.
 
 - 🎓 **B.Tech ECE** @ Vardhaman College of Engineering (2022–26)
 - 💻 Solved **300+ DSA problems** on competitive coding platforms
@@ -29,8 +23,6 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 - 📸 Hobbyist **Photographer** & sports enthusiast
 - 🌱 Currently leveling up in **ML, SystemVerilog & GenAI**
 - ⚡ Fun fact: My 10th CGPA was a perfect **10.0** 🎯
-
-<br clear="right"/>
 
 ---
 
@@ -61,7 +53,6 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/DSA-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -89,20 +80,7 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 - Built regression models in Python with iterative tuning
 - Evaluated with appropriate metrics and validated accuracy
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MN-SHASHANK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MN-SHASHANK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MN-SHASHANK&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ---
 
@@ -137,9 +115,24 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mnshashanknag)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnshashanknag@gmail.com)
 
+
+
+</div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MN-SHASHANK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MN-SHASHANK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+<img src="https://streak-stats.demolab.com?user=MN-SHASHANK&theme=tokyonight&hide_border=true" height="180"/>
+
+
+<br/>
 
 ### 💬 *"First, solve the problem. Then, write the code."*
 
