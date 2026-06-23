@@ -101,7 +101,7 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 
 ---
 
-## 📜 Certifications
+## 📜 Certificates
 
 | Certificate | Issuer | Year |
 |---|---|---|
