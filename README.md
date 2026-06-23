@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MN-SHASHANK&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Shashank+%F0%9F%91%8B" alt="Greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=99999999&color=6C63FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey+there!+I'm+MN+Shashank+%F0%9F%91%8B" alt="Greeting" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=ECE+Student+%7C+Software+Developer;DSA+%7C+ML+%7C+VLSI+Enthusiast;C%2B%2B+%7C+Python+%7C+SystemVerilog;Building+Scalable+%26+Efficient+Systems" alt="Typing SVG" />
 
@@ -19,9 +19,10 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 - 🎓 **B.Tech ECE** @ Vardhaman College of Engineering (2022–26)
 - 💻 Solved **300+ DSA problems** on competitive coding platforms
 - 🏆 **First Prize** in IEEE SPS Coding Contest at VCE
-- 🤖 Built a **Virtual Mouse** using just hand gestures & a webcam!
 - 📸 Hobbyist **Photographer** & sports enthusiast
 - 🌱 Currently leveling up in **ML, SystemVerilog & GenAI**
+- 🤖 Built a **Virtual Mouse** using just hand gestures & a webcam!
+- 🤖 Built a **Traffic Prediction System** using Machine learning!
 - ⚡ Fun fact: My 10th CGPA was a perfect **10.0** 🎯
 
 ---
@@ -64,6 +65,15 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 ---
 
 ## 🚀 Featured Projects
+
+###### 🚦 Traffic Volume Prediction using Machine Learning
+> Machine learning-based system for forecasting road traffic congestion
+
+* Performed **EDA**, data cleaning, and preprocessing on traffic and environmental datasets
+* Engineered features using timestamps, weather conditions, holidays, and temperature data
+* Trained and compared **Linear Regression**, **Decision Tree**, and **Random Forest** models
+* Evaluated model performance using **MSE** and **R² Score** to improve prediction accuracy
+* Developed an end-to-end traffic volume prediction pipeline for congestion forecasting and transportation planning
 
 ### 🖱️ Virtual Mouse using OpenCV
 > Control your cursor with hand gestures — no physical mouse needed!
@@ -136,6 +146,6 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 
 ### 💬 *"First, solve the problem. Then, write the code."*
 
-**Thanks for visiting! ⭐ Star some repos if you find them useful!**
+**Thanks for visiting! ⭐ **
 
 </div>
