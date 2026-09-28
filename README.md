@@ -74,13 +74,13 @@ I'm **MN Shashank Nag**, an Electronics & Communication Engineering student at *
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Digital Twin
+### 🤖 AI-Powered Career Twin
 > Interactive AI-powered system that represents my professional profile and provides personalized responses about my skills, projects, and experience
 
-* Developed an **AI-powered Digital Twin** using Python and Generative AI to create an interactive representation of my professional profile
+* Developed an **AI-powered Career Twin** using Python and Generative AI to create an interactive representation of my professional profile
 * Integrated **LLMs, prompt engineering, and structured personal data** to generate context-aware and personalized responses
 * Implemented conversational capabilities to answer questions about **skills, projects, education, experience, and technical expertise**
-* Built an interactive web interface for **real-time user interaction** with the Digital Twin
+* Built an interactive web interface for **real-time user interaction** with the Career Twin
 * Developed a personalized AI experience to help recruiters and users **explore my profile interactively**
 
 ### 🚦 Traffic Volume Prediction using Machine Learning
