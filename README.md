@@ -1,8 +1,11 @@
 <div align="center">
 
-MN Shashank Nag
+# **MN SHASHANK NAG**
 
-AI/ML Engineer | Generative AI | RAG | Agentic AI | Software Development
+### **AI/ML ENGINEER · GENERATIVE AI · RAG · AGENTIC AI**
+
+**Building Intelligent, Scalable & Production-Ready AI Applications**
+
 
 <p>
   <a href="https://github.com/MN-SHASHANK">
@@ -233,7 +236,7 @@ End-to-end machine learning pipeline for real-world house price prediction.
 
 # 🏆 Achievements
 
-- 🥇 **First Prize** — IEEE SPS Coding Contest, Vardhaman College of Engineering
+- 🥇 **Second Prize** — IEEE SPS Coding Contest, Vardhaman College of Engineering
 - 💻 **300+ DSA Problems** solved
 - 🏆 **4 HackerRank Badges**
 - 🎓 **B.Tech ECE**
