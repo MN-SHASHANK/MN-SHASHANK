@@ -1,253 +1,103 @@
 <div align="center">
 
-# 👋 Hi, I'm MN Shashank Nag
+# MN Shashank Nag
 
-### AI/ML Engineer • Generative AI • RAG • Software Development • VLSI
+**Electronics & Communication Engineering Student · Software Developer**
 
-<p>
-  <a href="https://github.com/MN-SHASHANK">
-    <img src="https://img.shields.io/badge/GitHub-MN--SHASHANK-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/mnshashanknag">
-    <img src="https://img.shields.io/badge/LinkedIn-MN%20Shashank-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.hackerrank.com/mnshashanknag">
-    <img src="https://img.shields.io/badge/HackerRank-MNShashankNag-2EC866?style=for-the-badge&logo=hackerrank"/>
-  </a>
-</p>
+DSA · Machine Learning · Generative AI · RAG · VLSI
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&height=45&lines=Building+AI-Powered+Applications;Generative+AI+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+Python+%7C+C%2B%2B;VLSI+%7C+SystemVerilog+%7C+Digital+Design" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnshashanknag)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MN-SHASHANK)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mnshashanknag)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mnshashanknag@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **MN Shashank Nag**, an Electronics & Communication Engineering graduate with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, software development, and VLSI design**.
+I am a B.Tech student in Electronics & Communication Engineering at **Vardhaman College of Engineering** (2022–2026, CGPA 9.0). I build software and machine learning systems, with a strong foundation in data structures and algorithms and growing focus on Generative AI, Retrieval-Augmented Generation (RAG) and digital design with SystemVerilog.
 
-I enjoy building practical systems that combine **software engineering, machine learning, LLMs, and hardware knowledge**.
-
-- 🎓 B.Tech in **Electronics & Communication Engineering**
-- 🤖 Focused on **Generative AI, RAG & Agentic AI**
-- 🧠 Strong interest in **Machine Learning & AI Engineering**
-- 🔎 Building applications using **Retrieval-Augmented Generation (RAG)**
-- ⚙️ Experience with **LangChain, LangGraph, LLMs & vector databases**
-- 💻 Programming with **Python, C++, Java & SystemVerilog**
-- 🧩 Strong foundation in **DSA, OOP, DBMS & Digital Design**
-- 🔬 Interested in the intersection of **AI + Semiconductor/VLSI**
-- 🏆 First Prize — IEEE SPS Coding Contest
-- 💡 Solved **300+ DSA problems**
+- Solved 300+ DSA problems across competitive coding platforms
+- First Prize, IEEE SPS Coding Contest at Vardhaman College of Engineering
+- Currently deepening skills in ML, GenAI, RAG and SystemVerilog
+- Outside of engineering: photography and sports
 
 ---
 
-# 🛠️ Technical Skills
+## Technical Skills
 
-## 🤖 Artificial Intelligence & Generative AI
+| Category | Technologies |
+|---|---|
+| **Languages** | C, C++, Python, Java, SystemVerilog |
+| **Generative AI** | RAG (Retrieval-Augmented Generation), LLMs, Prompt Engineering, LangChain |
+| **Machine Learning** | TensorFlow, Keras, scikit-learn, OpenCV |
+| **Data** | NumPy, Pandas, Matplotlib, Seaborn, MySQL |
+| **Web** | HTML5, CSS3 |
+| **Core Concepts** | DSA, OOP, DBMS, VLSI Design |
+| **Tools** | Git, GitHub, VS Code, Jupyter, Hugging Face |
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00A67E?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge)
-
-**RAG • LLM Applications • Prompt Engineering • Embeddings • Vector Search • AI Agents • Agentic Workflows • Context Engineering**
-
----
-
-## 🧠 RAG & LLM Engineering
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-Vector%20Representations-6C63FF?style=for-the-badge)
-
-**RAG Pipelines • Document Ingestion • Chunking • Embeddings • Similarity Search • FAISS • Retrieval • Context Injection • LLM Response Generation • Agent Workflows**
-
----
-
-## 🤖 Machine Learning & Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Machine Learning • Regression • Classification • EDA • Feature Engineering • Model Evaluation • Computer Vision**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
-## 💻 Programming
+## Featured Projects
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge)
+### AI-Powered Career Twin
+*Python · Generative AI · LLMs · Prompt Engineering*
 
-**Python • C++ • C • Java • SystemVerilog • Data Structures & Algorithms • OOP**
+An interactive AI system that represents my professional profile and answers questions about my skills, projects, education and experience.
 
----
+- Integrated LLMs, prompt engineering and structured personal data to produce context-aware responses
+- Built a web interface for real-time interaction, helping recruiters explore my profile conversationally
 
-## 🌐 Web Development
+### Traffic Volume Prediction
+*Python · scikit-learn · Pandas*
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+A machine learning system for forecasting road traffic congestion.
 
-**HTML • CSS • Streamlit • API Integration • Interactive AI Applications**
+- Performed EDA, cleaning and preprocessing on traffic and environmental datasets
+- Engineered features from timestamps, weather, holidays and temperature
+- Compared Linear Regression, Decision Tree and Random Forest models using MSE and R² Score
+- Delivered an end-to-end prediction pipeline for congestion forecasting and transportation planning
 
----
+### Virtual Mouse using OpenCV
+*Python · OpenCV · MediaPipe · PyAutoGUI*
 
-## 🔧 Tools & Technologies
+A touch-free cursor controlled through hand gestures and a webcam.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+- Real-time hand landmark detection to track finger positions
+- Index finger for cursor movement, pinch gesture for click
+- Gesture smoothing to reduce jitter and improve usability
 
----
+### House Price Prediction
+*Python · scikit-learn*
 
-## 🔬 VLSI & Digital Design
+An end-to-end regression pipeline for real-world price estimation.
 
-![VLSI](https://img.shields.io/badge/VLSI-Design-00BCD4?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge)
-
-**Digital Design • RTL Design • SystemVerilog • CMOS • VLSI • Johnson Counters • SRAM • FPGA Concepts**
+- Full EDA, preprocessing (missing values, encoding) and model training
+- Iterative tuning with appropriate evaluation metrics to validate accuracy
 
 ---
 
-# 🚀 Featured Projects
+## Certifications
 
-## 🤖 AI-Powered Career Twin
-
-**Generative AI • RAG • Python • LLMs • Streamlit**
-
-An interactive AI system that represents my professional profile and provides personalized responses about my **skills, projects, education, experience, and technical background**.
-
-### Key Features
-
-- Built an AI-powered digital representation of my professional profile
-- Integrated **LLMs and prompt engineering**
-- Structured personal information for context-aware responses
-- Implemented conversational interaction
-- Designed an interactive web interface
-- Developed the system with a focus on **personalized AI experiences**
-
----
-
-## 🔎 Retrieval-Augmented Generation (RAG) System
-
-**Python • LangChain • LangGraph • Embeddings • FAISS • LLMs**
-
-Built a RAG pipeline that enables LLMs to answer questions using information retrieved from external knowledge sources.
-
-### Pipeline
-
-```text
-Documents
-    ↓
-Document Loading
-    ↓
-Text Splitting / Chunking
-    ↓
-Embeddings
-    ↓
-Vector Database
-    ↓
-Similarity Search
-    ↓
-Relevant Context
-    ↓
-LLM
-    ↓
-Generated Answer
-```
-
-### Concepts
-
-- Document ingestion
-- Text chunking
-- Vector embeddings
-- Semantic search
-- FAISS vector database
-- Retrieval pipelines
-- Context augmentation
-- LLM response generation
-- LangChain
-- LangGraph
-- Agentic RAG workflows
-
----
-
-## 🚦 Traffic Volume Prediction
-
-**Python • Pandas • Scikit-learn • Machine Learning**
-
-Machine-learning system for predicting traffic volume using historical traffic and environmental data.
-
-- Performed **EDA and data preprocessing**
-- Engineered temporal and weather-based features
-- Trained **Linear Regression**
-- Trained **Decision Tree Regressor**
-- Trained **Random Forest Regressor**
-- Evaluated models using **MSE and R²**
-- Built an end-to-end ML prediction pipeline
-
----
-
-## 🖱️ Virtual Mouse using Computer Vision
-
-**Python • OpenCV • MediaPipe • PyAutoGUI**
-
-Computer-vision application that enables users to control the mouse using hand gestures.
-
-- Real-time hand landmark detection
-- Finger tracking using MediaPipe
-- Gesture-based cursor movement
-- Pinch gesture for mouse clicking
-- Gesture smoothing for improved usability
-
----
-
-## 🏠 House Price Prediction
-
-**Python • Pandas • Scikit-learn • Machine Learning**
-
-End-to-end machine learning pipeline for real-world house price prediction.
-
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Feature engineering
-- Regression model development
-- Model evaluation
-- Model serialization for deployment
-
----
-
-# 🏆 Achievements
-
-- 🥇 **First Prize** — IEEE SPS Coding Contest, Vardhaman College of Engineering
-- 💻 **300+ DSA Problems** solved
-- 🏆 **4 HackerRank Badges**
-- 🎓 **B.Tech ECE**
-- 📊 **94%** in Intermediate
-- 🎯 **10.0 CGPA** in 10th
-
----
-
-# 📜 Certifications
-
-| Certification | Platform | Year |
-|---|---|---:|
-| GenAI Powered Data Analytics Job Simulation | TATA / Forage | 2026 |
-| Discover the Art of AI Prompting | Google / Coursera | 2026 |
+| Certification | Issuer | Year |
+|---|---|---|
+| GenAI Powered Data Analytics Job Simulation | TATA (Forage) | 2026 |
+| Discover the Art of AI Prompting | Google (Coursera) | 2026 |
 | Salesforce Agentforce Specialist | Udemy | 2026 |
 | Complete Python Developer | Udemy | 2024 |
 | C++ DSA + LeetCode Exercises | Udemy | 2024 |
@@ -255,52 +105,33 @@ End-to-end machine learning pipeline for real-world house price prediction.
 
 ---
 
-# 📈 GitHub Analytics
+## Education
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MN-SHASHANK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MN-SHASHANK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=MN-SHASHANK&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+| Qualification | Institution | Score |
+|---|---|---|
+| B.Tech, Electronics & Communication Engineering (2022–2026) | Vardhaman College of Engineering | CGPA 9.0 |
+| Intermediate | — | 94% |
+| 10th Grade | — | CGPA 10.0 |
 
 ---
 
-# 🤝 Let's Connect
+## Achievements
 
-<div align="center">
-
-<a href="https://linkedin.com/in/mnshashanknag">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/MN-SHASHANK">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.hackerrank.com/mnshashanknag">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="mailto:mnshashanknag@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+- First Prize, Coding Contest, IEEE SPS Event, Vardhaman College of Engineering
+- 4 badges on HackerRank ([@mnshashanknag](https://www.hackerrank.com/mnshashanknag))
+- 300+ DSA problems solved across coding platforms
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-### 💡 Building at the intersection of AI, Software & Hardware
+<img src="https://github-readme-stats.vercel.app/api?username=MN-SHASHANK&show_icons=true&theme=default&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MN-SHASHANK&layout=compact&theme=default&hide_border=true" height="170"/>
+
+<br/>
 
 *"First, solve the problem. Then, write the code."*
-
-⭐ **Thanks for visiting my profile!**
 
 </div>
