@@ -7,20 +7,6 @@
 **Building Intelligent, Scalable & Production-Ready AI Applications**
 
 
-<p>
-  <a href="https://github.com/MN-SHASHANK">
-    <img src="https://img.shields.io/badge/GitHub-MN--SHASHANK-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/mnshashanknag">
-    <img src="https://img.shields.io/badge/LinkedIn-MN%20Shashank-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/mnshashanknag">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
-  </a>
-  <a href="mailto:mnshashanknag@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 </div>
 
