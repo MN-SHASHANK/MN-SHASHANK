@@ -1,98 +1,304 @@
 <div align="center">
 
-# 👋 Hi, I'm MN Shashank Nag
-### AI/ML Engineer • Generative AI • RAG • Agentic Systems • VLSI
+# MN Shashank Nag
+
+### AI/ML Engineer | Generative AI | RAG | Agentic AI | Software Development
 
 <p>
   <a href="https://github.com/MN-SHASHANK">
-    <img src="https://img.shields.io/badge/GitHub-MN--SHASHANK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-MN--SHASHANK-181717?style=flat-square&logo=github&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/mnshashanknag">
-    <img src="https://img.shields.io/badge/LinkedIn-MN%20Shashank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-MN%20Shashank-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.hackerrank.com/mnshashanknag">
-    <img src="https://img.shields.io/badge/HackerRank-MNShashankNag-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
   </a>
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&height=45&lines=Building+AI-Powered+Applications;Generative+AI+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+Python+%7C+C%2B%2B;VLSI+%7C+SystemVerilog+%7C+Digital+Design" alt="Typing SVG" />
+  <a href="mailto:mnshashanknag@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **MN Shashank Nag**, an Electronics & Communication Engineering graduate specializing in **Artificial Intelligence, Machine Learning, Generative AI, software development, and VLSI design**. I enjoy architecting practical, high-impact systems that bridge software engineering, LLMs, and hardware design.
+I am an **Electronics & Communication Engineering graduate** focused on **Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering**.
 
-- 🎓 **B.Tech in ECE** @ Vardhaman College of Engineering
-- 🤖 **Core Focus:** Generative AI, Retrieval-Augmented Generation (RAG) & Agentic AI
-- ⚙️ **Stack Mastery:** LangChain, LangGraph, LLMs, Vector Databases, Python & C++
-- 🔬 **Interests:** AI Engineering, Agentic Workflows & AI + Semiconductor/VLSI Integration
-- 🧩 **Problem Solving:** Solved **300+ DSA problems** across competitive programming platforms
-- 🏆 **Achievement:** **First Prize Winner** in IEEE SPS Coding Contest
+My current interests include building production-oriented AI applications using **Large Language Models, Retrieval-Augmented Generation (RAG), vector databases, embeddings, and agentic workflows**.
 
----
+My ECE background also gives me a strong foundation in **digital systems, VLSI, RTL design, and SystemVerilog**, allowing me to explore the intersection of **AI and hardware systems**.
 
-## 🛠️ Technical Skills
-
-### 🤖 Artificial Intelligence & Generative AI
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logo=chainlink&logoColor=white)
-![LLM Applications](https://img.shields.io/badge/LLM_Apps-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-4B0082?style=for-the-badge&logo=python&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-00D9FF?style=for-the-badge&logo=databricks&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF9900?style=for-the-badge&logo=robot&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-FF4500?style=for-the-badge&logo=diagram&logoColor=white)
-
-### 🧠 RAG & LLM Engineering
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Context Injection](https://img.shields.io/badge/Context_Injection-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🧠 Machine Learning & Data Science
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 💻 Programming Languages & Fundamentals
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=xilinx&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)
-
-### 🌐 Web & API Integration
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![API Integration](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🔧 Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🔬 VLSI & Digital Hardware Design
-![Digital Design](https://img.shields.io/badge/Digital_Design-00BCD4?style=for-the-badge&logo=xilinx&logoColor=white)
-![RTL Design](https://img.shields.io/badge/RTL_Design-FF6B6B?style=for-the-badge&logo=xilinx&logoColor=white)
-![CMOS](https://img.shields.io/badge/CMOS-008080?style=for-the-badge&logo=intel&logoColor=white)
-![FPGA Concepts](https://img.shields.io/badge/FPGA_Concepts-00BCD4?style=for-the-badge&logo=xilinx&logoColor=white)
+- B.Tech in Electronics & Communication Engineering
+- 300+ DSA problems solved
+- First Prize — IEEE SPS Coding Contest
+- Focused on Generative AI, RAG and Agentic AI
+- Interested in AI Engineering and intelligent software systems
+- Strong foundation in DSA, OOP, DBMS and Digital Design
 
 ---
 
-## 🚀 Featured Projects
+# Technical Skills
 
-### 🔎 Production-Grade Retrieval-Augmented Generation (RAG) System
-> **Tech Stack:** Python • LangChain • LangGraph • Embeddings • FAISS • LLMs
+### Artificial Intelligence & Generative AI
 
-Built an end-to-end RAG architecture enabling LLMs to query external knowledge bases accurately without hallucination.
+`Generative AI` `LLMs` `RAG` `Agentic AI` `Prompt Engineering` `Embeddings` `Semantic Search` `AI Agents`
+
+### RAG & LLM Engineering
+
+`LangChain` `LangGraph` `FAISS` `Vector Databases` `Document Retrieval` `Text Chunking` `Embedding Models` `Context Augmentation` `LLM Applications`
+
+### Machine Learning
+
+`Scikit-learn` `TensorFlow` `Keras` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**Concepts:**  
+Machine Learning • Regression • Classification • Feature Engineering • EDA • Data Preprocessing • Model Evaluation • Computer Vision
+
+### Programming
+
+`Python` `C++` `C` `Java` `SystemVerilog`
+
+**Core:**  
+Data Structures & Algorithms • Object-Oriented Programming • DBMS • Problem Solving
+
+### Web & Application Development
+
+`HTML` `CSS` `Streamlit` `REST APIs`
+
+### VLSI & Digital Design
+
+`SystemVerilog` `RTL Design` `Digital Design` `CMOS` `VLSI` `FPGA` `Johnson Counters` `SRAM`
+
+### Developer Tools
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Hugging Face`
+
+---
+
+# Featured Projects
+
+## AI-Powered Career Twin
+
+**Python | Generative AI | LLMs | RAG | Streamlit**
+
+An AI-powered representation of my professional profile designed to provide interactive and context-aware responses about my **education, skills, projects, experience, and technical expertise**.
+
+### Key Contributions
+
+- Designed an AI-powered conversational career profile
+- Integrated LLM-based response generation
+- Applied prompt engineering and structured context
+- Implemented personalized question answering
+- Developed an interactive web interface
+- Designed the system to provide recruiter-friendly access to professional information
+
+---
+
+## Retrieval-Augmented Generation System
+
+**Python | LangChain | LangGraph | FAISS | Embeddings | LLMs**
+
+Developed a RAG pipeline that enables an LLM to retrieve relevant information from an external knowledge base before generating a response.
+
+### Architecture
+
+```text
+Documents
+    │
+    ▼
+Document Loading
+    │
+    ▼
+Text Splitting
+    │
+    ▼
+Embedding Generation
+    │
+    ▼
+Vector Database
+    │
+    ▼
+Semantic Retrieval
+    │
+    ▼
+Relevant Context
+    │
+    ▼
+LLM
+    │
+    ▼
+Generated Response
+```
+
+### Technologies & Concepts
+
+- Document ingestion and preprocessing
+- Recursive text chunking
+- Vector embeddings
+- Semantic similarity search
+- FAISS vector store
+- Retrieval pipelines
+- Context augmentation
+- LLM-based generation
+- LangChain
+- LangGraph
+- Agentic workflows
+
+---
+
+## Traffic Volume Prediction
+
+**Python | Pandas | Scikit-learn | Machine Learning**
+
+Machine-learning system designed to predict traffic volume using historical traffic, weather, environmental, and temporal information.
+
+### Key Contributions
+
+- Performed exploratory data analysis
+- Cleaned and preprocessed real-world data
+- Engineered temporal and environmental features
+- Developed multiple regression models
+- Compared Linear Regression, Decision Tree and Random Forest
+- Evaluated models using MSE and R²
+- Built an end-to-end prediction pipeline
+
+---
+
+## Virtual Mouse using Computer Vision
+
+**Python | OpenCV | MediaPipe | PyAutoGUI**
+
+Computer-vision application that enables mouse control through hand gestures.
+
+### Key Contributions
+
+- Implemented real-time hand landmark detection
+- Used MediaPipe for hand tracking
+- Mapped finger movement to cursor movement
+- Implemented pinch-based mouse clicking
+- Applied gesture smoothing to reduce cursor jitter
+
+---
+
+## House Price Prediction
+
+**Python | Pandas | Scikit-learn | Machine Learning**
+
+End-to-end machine-learning pipeline for house price prediction.
+
+### Key Contributions
+
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Regression model development
+- Model evaluation
+- Model serialization for deployment
+
+---
+
+# Engineering Interests
+
+My current areas of interest include:
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        ├── Generative AI
+        ├── Large Language Models
+        ├── Retrieval-Augmented Generation
+        ├── AI Agents
+        └── Agentic AI
+
+Software Engineering
+        │
+        ├── Python
+        ├── C++
+        ├── APIs
+        ├── Data Structures
+        └── Application Development
+
+Hardware Engineering
+        │
+        ├── Digital Design
+        ├── RTL
+        ├── SystemVerilog
+        ├── VLSI
+        └── Semiconductor Systems
+```
+
+---
+
+# Certifications
+
+| Certification | Platform | Year |
+|---|---|---:|
+| GenAI Powered Data Analytics Job Simulation | TATA / Forage | 2026 |
+| Discover the Art of AI Prompting | Google / Coursera | 2026 |
+| Salesforce Agentforce Specialist | Udemy | 2026 |
+| Complete Python Developer | Udemy | 2024 |
+| C++ DSA + LeetCode Exercises | Udemy | 2024 |
+| Problem Solving | HackerRank | 2025 |
+
+---
+
+# Achievements
+
+- **First Prize** — IEEE SPS Coding Contest, Vardhaman College of Engineering
+- **300+ DSA Problems** solved across coding platforms
+- **4 HackerRank Badges**
+- **B.Tech ECE**
+- **94%** in Intermediate
+- **10.0 CGPA** in 10th
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MN-SHASHANK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MN-SHASHANK&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MN-SHASHANK&theme=tokyonight&hide_border=true" height="165">
+
+</div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mnshashanknag">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/MN-SHASHANK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.hackerrank.com/mnshashanknag">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
+</a>
+
+<a href="mailto:mnshashanknag@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Building intelligent systems at the intersection of AI, software, and hardware.**
+
+</div>
